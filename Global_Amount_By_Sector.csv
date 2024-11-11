@@ -1,0 +1,306 @@
+,Entity,Code,Year,Category,Amount
+0,World,OWID_WRL,1950,Artisanal (small-scale commercial),7526795
+1,World,OWID_WRL,1951,Artisanal (small-scale commercial),8278304
+2,World,OWID_WRL,1952,Artisanal (small-scale commercial),8272109
+3,World,OWID_WRL,1953,Artisanal (small-scale commercial),8469284
+4,World,OWID_WRL,1954,Artisanal (small-scale commercial),9226926
+5,World,OWID_WRL,1955,Artisanal (small-scale commercial),9545554
+6,World,OWID_WRL,1956,Artisanal (small-scale commercial),10303408
+7,World,OWID_WRL,1957,Artisanal (small-scale commercial),10425695
+8,World,OWID_WRL,1958,Artisanal (small-scale commercial),10172920
+9,World,OWID_WRL,1959,Artisanal (small-scale commercial),10385711
+10,World,OWID_WRL,1960,Artisanal (small-scale commercial),10703245
+11,World,OWID_WRL,1961,Artisanal (small-scale commercial),10846177
+12,World,OWID_WRL,1962,Artisanal (small-scale commercial),11015370
+13,World,OWID_WRL,1963,Artisanal (small-scale commercial),11005246
+14,World,OWID_WRL,1964,Artisanal (small-scale commercial),11303832
+15,World,OWID_WRL,1965,Artisanal (small-scale commercial),11653978
+16,World,OWID_WRL,1966,Artisanal (small-scale commercial),12084658
+17,World,OWID_WRL,1967,Artisanal (small-scale commercial),12386026
+18,World,OWID_WRL,1968,Artisanal (small-scale commercial),12303383
+19,World,OWID_WRL,1969,Artisanal (small-scale commercial),12211407
+20,World,OWID_WRL,1970,Artisanal (small-scale commercial),12365128
+21,World,OWID_WRL,1971,Artisanal (small-scale commercial),12398298
+22,World,OWID_WRL,1972,Artisanal (small-scale commercial),12753562
+23,World,OWID_WRL,1973,Artisanal (small-scale commercial),13688372
+24,World,OWID_WRL,1974,Artisanal (small-scale commercial),13309012
+25,World,OWID_WRL,1975,Artisanal (small-scale commercial),13432664
+26,World,OWID_WRL,1976,Artisanal (small-scale commercial),13761132
+27,World,OWID_WRL,1977,Artisanal (small-scale commercial),13892726
+28,World,OWID_WRL,1978,Artisanal (small-scale commercial),14360786
+29,World,OWID_WRL,1979,Artisanal (small-scale commercial),14616134
+30,World,OWID_WRL,1980,Artisanal (small-scale commercial),14688464
+31,World,OWID_WRL,1981,Artisanal (small-scale commercial),15279447
+32,World,OWID_WRL,1982,Artisanal (small-scale commercial),15220824
+33,World,OWID_WRL,1983,Artisanal (small-scale commercial),15300068
+34,World,OWID_WRL,1984,Artisanal (small-scale commercial),16074619
+35,World,OWID_WRL,1985,Artisanal (small-scale commercial),16380243
+36,World,OWID_WRL,1986,Artisanal (small-scale commercial),16227297
+37,World,OWID_WRL,1987,Artisanal (small-scale commercial),17449809
+38,World,OWID_WRL,1988,Artisanal (small-scale commercial),17418253
+39,World,OWID_WRL,1989,Artisanal (small-scale commercial),17620239
+40,World,OWID_WRL,1990,Artisanal (small-scale commercial),17734811
+41,World,OWID_WRL,1991,Artisanal (small-scale commercial),17773521
+42,World,OWID_WRL,1992,Artisanal (small-scale commercial),18417117
+43,World,OWID_WRL,1993,Artisanal (small-scale commercial),18031035
+44,World,OWID_WRL,1994,Artisanal (small-scale commercial),18723265
+45,World,OWID_WRL,1995,Artisanal (small-scale commercial),19665232
+46,World,OWID_WRL,1996,Artisanal (small-scale commercial),20787945
+47,World,OWID_WRL,1997,Artisanal (small-scale commercial),20401848
+48,World,OWID_WRL,1998,Artisanal (small-scale commercial),20332081
+49,World,OWID_WRL,1999,Artisanal (small-scale commercial),20588769
+50,World,OWID_WRL,2000,Artisanal (small-scale commercial),19735866
+51,World,OWID_WRL,2001,Artisanal (small-scale commercial),20046446
+52,World,OWID_WRL,2002,Artisanal (small-scale commercial),19742034
+53,World,OWID_WRL,2003,Artisanal (small-scale commercial),20568530
+54,World,OWID_WRL,2004,Artisanal (small-scale commercial),21076208
+55,World,OWID_WRL,2005,Artisanal (small-scale commercial),20966689
+56,World,OWID_WRL,2006,Artisanal (small-scale commercial),21417851
+57,World,OWID_WRL,2007,Artisanal (small-scale commercial),21097388
+58,World,OWID_WRL,2008,Artisanal (small-scale commercial),21111836
+59,World,OWID_WRL,2009,Artisanal (small-scale commercial),21828623
+60,World,OWID_WRL,2010,Artisanal (small-scale commercial),21586606
+61,World,OWID_WRL,1950,Discards,5874170
+62,World,OWID_WRL,1951,Discards,6278225
+63,World,OWID_WRL,1952,Discards,7230311
+64,World,OWID_WRL,1953,Discards,7172937
+65,World,OWID_WRL,1954,Discards,8012930
+66,World,OWID_WRL,1955,Discards,8340179
+67,World,OWID_WRL,1956,Discards,8692551
+68,World,OWID_WRL,1957,Discards,8998732
+69,World,OWID_WRL,1958,Discards,9255992
+70,World,OWID_WRL,1959,Discards,9908003
+71,World,OWID_WRL,1960,Discards,10896146
+72,World,OWID_WRL,1961,Discards,11712961
+73,World,OWID_WRL,1962,Discards,11485645
+74,World,OWID_WRL,1963,Discards,12332187
+75,World,OWID_WRL,1964,Discards,12931938
+76,World,OWID_WRL,1965,Discards,13595692
+77,World,OWID_WRL,1966,Discards,13355898
+78,World,OWID_WRL,1967,Discards,13549800
+79,World,OWID_WRL,1968,Discards,13871018
+80,World,OWID_WRL,1969,Discards,12761884
+81,World,OWID_WRL,1970,Discards,12754841
+82,World,OWID_WRL,1971,Discards,12685805
+83,World,OWID_WRL,1972,Discards,12357980
+84,World,OWID_WRL,1973,Discards,12031176
+85,World,OWID_WRL,1974,Discards,11416434
+86,World,OWID_WRL,1975,Discards,11313080
+87,World,OWID_WRL,1976,Discards,11095856
+88,World,OWID_WRL,1977,Discards,10889729
+89,World,OWID_WRL,1978,Discards,10872136
+90,World,OWID_WRL,1979,Discards,10707877
+91,World,OWID_WRL,1980,Discards,10500231
+92,World,OWID_WRL,1981,Discards,10984462
+93,World,OWID_WRL,1982,Discards,12497442
+94,World,OWID_WRL,1983,Discards,12388473
+95,World,OWID_WRL,1984,Discards,13926837
+96,World,OWID_WRL,1985,Discards,14706334
+97,World,OWID_WRL,1986,Discards,15091641
+98,World,OWID_WRL,1987,Discards,15669889
+99,World,OWID_WRL,1988,Discards,16079227
+100,World,OWID_WRL,1989,Discards,16962727
+101,World,OWID_WRL,1990,Discards,16698879
+102,World,OWID_WRL,1991,Discards,16441591
+103,World,OWID_WRL,1992,Discards,15717869
+104,World,OWID_WRL,1993,Discards,15118768
+105,World,OWID_WRL,1994,Discards,14457538
+106,World,OWID_WRL,1995,Discards,14406022
+107,World,OWID_WRL,1996,Discards,14689195
+108,World,OWID_WRL,1997,Discards,14321828
+109,World,OWID_WRL,1998,Discards,13154260
+110,World,OWID_WRL,1999,Discards,12426124
+111,World,OWID_WRL,2000,Discards,11986132
+112,World,OWID_WRL,2001,Discards,11506452
+113,World,OWID_WRL,2002,Discards,10791660
+114,World,OWID_WRL,2003,Discards,10782853
+115,World,OWID_WRL,2004,Discards,10387939
+116,World,OWID_WRL,2005,Discards,10014530
+117,World,OWID_WRL,2006,Discards,9530758
+118,World,OWID_WRL,2007,Discards,9725492
+119,World,OWID_WRL,2008,Discards,9568906
+120,World,OWID_WRL,2009,Discards,9369530
+121,World,OWID_WRL,2010,Discards,9638888
+122,World,OWID_WRL,1950,Industrial (large-scale commercial),14566338
+123,World,OWID_WRL,1951,Industrial (large-scale commercial),15417937
+124,World,OWID_WRL,1952,Industrial (large-scale commercial),16463942
+125,World,OWID_WRL,1953,Industrial (large-scale commercial),17163789
+126,World,OWID_WRL,1954,Industrial (large-scale commercial),18340199
+127,World,OWID_WRL,1955,Industrial (large-scale commercial),18728089
+128,World,OWID_WRL,1956,Industrial (large-scale commercial),19902604
+129,World,OWID_WRL,1957,Industrial (large-scale commercial),20030089
+130,World,OWID_WRL,1958,Industrial (large-scale commercial),20520801
+131,World,OWID_WRL,1959,Industrial (large-scale commercial),23422702
+132,World,OWID_WRL,1960,Industrial (large-scale commercial),25853941
+133,World,OWID_WRL,1961,Industrial (large-scale commercial),30521101
+134,World,OWID_WRL,1962,Industrial (large-scale commercial),33658918
+135,World,OWID_WRL,1963,Industrial (large-scale commercial),36093501
+136,World,OWID_WRL,1964,Industrial (large-scale commercial),41475194
+137,World,OWID_WRL,1965,Industrial (large-scale commercial),40475260
+138,World,OWID_WRL,1966,Industrial (large-scale commercial),44826863
+139,World,OWID_WRL,1967,Industrial (large-scale commercial),49828456
+140,World,OWID_WRL,1968,Industrial (large-scale commercial),55617156
+141,World,OWID_WRL,1969,Industrial (large-scale commercial),52626777
+142,World,OWID_WRL,1970,Industrial (large-scale commercial),58881353
+143,World,OWID_WRL,1971,Industrial (large-scale commercial),58293316
+144,World,OWID_WRL,1972,Industrial (large-scale commercial),51789011
+145,World,OWID_WRL,1973,Industrial (large-scale commercial),51308375
+146,World,OWID_WRL,1974,Industrial (large-scale commercial),56720856
+147,World,OWID_WRL,1975,Industrial (large-scale commercial),55854975
+148,World,OWID_WRL,1976,Industrial (large-scale commercial),59084000
+149,World,OWID_WRL,1977,Industrial (large-scale commercial),59241222
+150,World,OWID_WRL,1978,Industrial (large-scale commercial),62623483
+151,World,OWID_WRL,1979,Industrial (large-scale commercial),60252600
+152,World,OWID_WRL,1980,Industrial (large-scale commercial),60489781
+153,World,OWID_WRL,1981,Industrial (large-scale commercial),62459956
+154,World,OWID_WRL,1982,Industrial (large-scale commercial),67545097
+155,World,OWID_WRL,1983,Industrial (large-scale commercial),65689361
+156,World,OWID_WRL,1984,Industrial (large-scale commercial),70609012
+157,World,OWID_WRL,1985,Industrial (large-scale commercial),73506569
+158,World,OWID_WRL,1986,Industrial (large-scale commercial),78606140
+159,World,OWID_WRL,1987,Industrial (large-scale commercial),79755589
+160,World,OWID_WRL,1988,Industrial (large-scale commercial),83223979
+161,World,OWID_WRL,1989,Industrial (large-scale commercial),84135075
+162,World,OWID_WRL,1990,Industrial (large-scale commercial),80593708
+163,World,OWID_WRL,1991,Industrial (large-scale commercial),79511569
+164,World,OWID_WRL,1992,Industrial (large-scale commercial),81793283
+165,World,OWID_WRL,1993,Industrial (large-scale commercial),82746056
+166,World,OWID_WRL,1994,Industrial (large-scale commercial),88495889
+167,World,OWID_WRL,1995,Industrial (large-scale commercial),87743321
+168,World,OWID_WRL,1996,Industrial (large-scale commercial),90068159
+169,World,OWID_WRL,1997,Industrial (large-scale commercial),88205198
+170,World,OWID_WRL,1998,Industrial (large-scale commercial),79574228
+171,World,OWID_WRL,1999,Industrial (large-scale commercial),84833508
+172,World,OWID_WRL,2000,Industrial (large-scale commercial),87493439
+173,World,OWID_WRL,2001,Industrial (large-scale commercial),84201719
+174,World,OWID_WRL,2002,Industrial (large-scale commercial),84367375
+175,World,OWID_WRL,2003,Industrial (large-scale commercial),80954017
+176,World,OWID_WRL,2004,Industrial (large-scale commercial),85760977
+177,World,OWID_WRL,2005,Industrial (large-scale commercial),83779026
+178,World,OWID_WRL,2006,Industrial (large-scale commercial),78480816
+179,World,OWID_WRL,2007,Industrial (large-scale commercial),78861788
+180,World,OWID_WRL,2008,Industrial (large-scale commercial),76840638
+181,World,OWID_WRL,2009,Industrial (large-scale commercial),75728150
+182,World,OWID_WRL,2010,Industrial (large-scale commercial),73326274
+183,World,OWID_WRL,1950,Recreational,268260
+184,World,OWID_WRL,1951,Recreational,284319
+185,World,OWID_WRL,1952,Recreational,293558
+186,World,OWID_WRL,1953,Recreational,292070
+187,World,OWID_WRL,1954,Recreational,304398
+188,World,OWID_WRL,1955,Recreational,313420
+189,World,OWID_WRL,1956,Recreational,319333
+190,World,OWID_WRL,1957,Recreational,339291
+191,World,OWID_WRL,1958,Recreational,353633
+192,World,OWID_WRL,1959,Recreational,355360
+193,World,OWID_WRL,1960,Recreational,360842
+194,World,OWID_WRL,1961,Recreational,364629
+195,World,OWID_WRL,1962,Recreational,383464
+196,World,OWID_WRL,1963,Recreational,392172
+197,World,OWID_WRL,1964,Recreational,394958
+198,World,OWID_WRL,1965,Recreational,405857
+199,World,OWID_WRL,1966,Recreational,432286
+200,World,OWID_WRL,1967,Recreational,440399
+201,World,OWID_WRL,1968,Recreational,460158
+202,World,OWID_WRL,1969,Recreational,445673
+203,World,OWID_WRL,1970,Recreational,480642
+204,World,OWID_WRL,1971,Recreational,508341
+205,World,OWID_WRL,1972,Recreational,522985
+206,World,OWID_WRL,1973,Recreational,548785
+207,World,OWID_WRL,1974,Recreational,583018
+208,World,OWID_WRL,1975,Recreational,594247
+209,World,OWID_WRL,1976,Recreational,632334
+210,World,OWID_WRL,1977,Recreational,653480
+211,World,OWID_WRL,1978,Recreational,689377
+212,World,OWID_WRL,1979,Recreational,723286
+213,World,OWID_WRL,1980,Recreational,762688
+214,World,OWID_WRL,1981,Recreational,761247
+215,World,OWID_WRL,1982,Recreational,820815
+216,World,OWID_WRL,1983,Recreational,849021
+217,World,OWID_WRL,1984,Recreational,789467
+218,World,OWID_WRL,1985,Recreational,810942
+219,World,OWID_WRL,1986,Recreational,848975
+220,World,OWID_WRL,1987,Recreational,778434
+221,World,OWID_WRL,1988,Recreational,774315
+222,World,OWID_WRL,1989,Recreational,763732
+223,World,OWID_WRL,1990,Recreational,733903
+224,World,OWID_WRL,1991,Recreational,753923
+225,World,OWID_WRL,1992,Recreational,744304
+226,World,OWID_WRL,1993,Recreational,747610
+227,World,OWID_WRL,1994,Recreational,754426
+228,World,OWID_WRL,1995,Recreational,752382
+229,World,OWID_WRL,1996,Recreational,748967
+230,World,OWID_WRL,1997,Recreational,774972
+231,World,OWID_WRL,1998,Recreational,744742
+232,World,OWID_WRL,1999,Recreational,731511
+233,World,OWID_WRL,2000,Recreational,765919
+234,World,OWID_WRL,2001,Recreational,769491
+235,World,OWID_WRL,2002,Recreational,758863
+236,World,OWID_WRL,2003,Recreational,771767
+237,World,OWID_WRL,2004,Recreational,771531
+238,World,OWID_WRL,2005,Recreational,745431
+239,World,OWID_WRL,2006,Recreational,790270
+240,World,OWID_WRL,2007,Recreational,804477
+241,World,OWID_WRL,2008,Recreational,826843
+242,World,OWID_WRL,2009,Recreational,805632
+243,World,OWID_WRL,2010,Recreational,808357
+244,World,OWID_WRL,1950,Subsistence,2677833
+245,World,OWID_WRL,1951,Subsistence,2704471
+246,World,OWID_WRL,1952,Subsistence,2728141
+247,World,OWID_WRL,1953,Subsistence,2753098
+248,World,OWID_WRL,1954,Subsistence,2895153
+249,World,OWID_WRL,1955,Subsistence,3012167
+250,World,OWID_WRL,1956,Subsistence,3058523
+251,World,OWID_WRL,1957,Subsistence,3112506
+252,World,OWID_WRL,1958,Subsistence,3187292
+253,World,OWID_WRL,1959,Subsistence,3296620
+254,World,OWID_WRL,1960,Subsistence,3479410
+255,World,OWID_WRL,1961,Subsistence,3532629
+256,World,OWID_WRL,1962,Subsistence,3692738
+257,World,OWID_WRL,1963,Subsistence,3826997
+258,World,OWID_WRL,1964,Subsistence,3870677
+259,World,OWID_WRL,1965,Subsistence,3873765
+260,World,OWID_WRL,1966,Subsistence,3877243
+261,World,OWID_WRL,1967,Subsistence,3903718
+262,World,OWID_WRL,1968,Subsistence,3916270
+263,World,OWID_WRL,1969,Subsistence,3889378
+264,World,OWID_WRL,1970,Subsistence,3937638
+265,World,OWID_WRL,1971,Subsistence,3976718
+266,World,OWID_WRL,1972,Subsistence,3983958
+267,World,OWID_WRL,1973,Subsistence,3957258
+268,World,OWID_WRL,1974,Subsistence,3866687
+269,World,OWID_WRL,1975,Subsistence,3808464
+270,World,OWID_WRL,1976,Subsistence,3911536
+271,World,OWID_WRL,1977,Subsistence,4062986
+272,World,OWID_WRL,1978,Subsistence,4029281
+273,World,OWID_WRL,1979,Subsistence,3985743
+274,World,OWID_WRL,1980,Subsistence,3918334
+275,World,OWID_WRL,1981,Subsistence,3986858
+276,World,OWID_WRL,1982,Subsistence,4080200
+277,World,OWID_WRL,1983,Subsistence,4200135
+278,World,OWID_WRL,1984,Subsistence,4138484
+279,World,OWID_WRL,1985,Subsistence,4173602
+280,World,OWID_WRL,1986,Subsistence,4226487
+281,World,OWID_WRL,1987,Subsistence,4216780
+282,World,OWID_WRL,1988,Subsistence,4100400
+283,World,OWID_WRL,1989,Subsistence,4103211
+284,World,OWID_WRL,1990,Subsistence,4075507
+285,World,OWID_WRL,1991,Subsistence,4099117
+286,World,OWID_WRL,1992,Subsistence,4108368
+287,World,OWID_WRL,1993,Subsistence,4072844
+288,World,OWID_WRL,1994,Subsistence,4139764
+289,World,OWID_WRL,1995,Subsistence,4124233
+290,World,OWID_WRL,1996,Subsistence,4081801
+291,World,OWID_WRL,1997,Subsistence,4044958
+292,World,OWID_WRL,1998,Subsistence,4025919
+293,World,OWID_WRL,1999,Subsistence,4057334
+294,World,OWID_WRL,2000,Subsistence,4094731
+295,World,OWID_WRL,2001,Subsistence,3955601
+296,World,OWID_WRL,2002,Subsistence,3879482
+297,World,OWID_WRL,2003,Subsistence,3865552
+298,World,OWID_WRL,2004,Subsistence,3808617
+299,World,OWID_WRL,2005,Subsistence,3718690
+300,World,OWID_WRL,2006,Subsistence,3792749
+301,World,OWID_WRL,2007,Subsistence,3623797
+302,World,OWID_WRL,2008,Subsistence,3629819
+303,World,OWID_WRL,2009,Subsistence,3630156
+304,World,OWID_WRL,2010,Subsistence,3627383
